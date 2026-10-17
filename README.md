@@ -5,7 +5,7 @@ A responsive YouTube-inspired frontend web application built using **HTML, CSS, 
 The main goal of this project is to gain practical experience in frontend web development by building a familiar video-sharing platform interface from scratch.
 
 ![YouTube Clone Homepage](homepage.png)
-![YouTube Clone Video Page](video-page.png)
+![YouTube Clone Video Page](videopage.png)
 
 ## 📌 About the Project
 
